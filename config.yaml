@@ -1,0 +1,8 @@
+spotify:
+  client_id: 38890039b6354a4c8f12138060f518a9
+  client_secret: 85baa18aeca844e4bed74e2a1e8b1568
+  redirect_uri: http://localhost:8888/callback
+
+  
+  
+apple_music:

@@ -1,0 +1,7 @@
+pyyaml
+spotipy
+requests
+python-jwt
+click
+aiohttp
+beautifulsoup4
